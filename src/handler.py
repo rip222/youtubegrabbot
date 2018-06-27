@@ -115,7 +115,7 @@ def commands(text, message):
 2. Choose a suitable format to download the video
 3. Enjoy:)"""
     elif text == '/about':
-        response = 'https://github.com/dmzmk/youtubegrabbot'
+        response = 'https://github.com/rip222/youtubegrabbot'
     else:
         response = "Sorry. I don't understand that:("
     return response
